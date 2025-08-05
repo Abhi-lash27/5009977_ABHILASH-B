@@ -19,3 +19,7 @@ Linux Commands Day 2
 C Prograaming Basics - Sololearn
 
 ![C Basics](C_PROGRAMMING/C_Beginner.jpg)
+
+C Programming Intermediate - Sololearn
+
+![C Intermediate](C_PROGRAMMING/C_Intermediate.jpg)
